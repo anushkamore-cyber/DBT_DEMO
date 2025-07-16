@@ -10,7 +10,7 @@ WITH Bike as
 
     where RIDE_ID != 'rise_id'
 
-    limit 10
+    
 )
 
 select * from bike
