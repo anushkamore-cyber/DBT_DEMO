@@ -11,6 +11,7 @@ clouds
 from {{ source('demo', 'weather') }}
 
 ),
+
 daily_weather_agg as
 (
     select

@@ -9,7 +9,6 @@ WITH Bike as
     from {{ source('demo', 'bike') }} 
 
     where RIDE_ID != 'rise_id'
-
     
 )
 

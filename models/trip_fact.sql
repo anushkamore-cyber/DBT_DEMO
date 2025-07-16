@@ -12,7 +12,6 @@ WITH Bike as
 
     where RIDE_ID != 'ride_id'
 
-
 )
 
 select * from bike
