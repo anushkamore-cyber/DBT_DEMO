@@ -17,4 +17,5 @@ where started_at != 'started_at'
 
 )
 
+
 select * from date_dimension
