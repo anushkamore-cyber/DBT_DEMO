@@ -6,7 +6,18 @@ sources:
     tables:
       - name: bike
       - name: weather
+      - name: amortan_mock_orders
+      
 
 
 
-    
+  - name: US_CRIME
+    database: US_CRIME
+    schema: CYBERSYN
+    tables:
+      - name: URBAN_CRIME_INCIDENT_LOG
+      
+
+
+
+      
